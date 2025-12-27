@@ -130,7 +130,7 @@ The goal of this level is to learn the core machine learning concepts and algori
         12. Xgboost - https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4
         13. Principle Component Analysis (PCA) - https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD
         14. KMeans Clustering - https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9
-        15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
+        15. Hiearchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
         16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
         17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM and https://distill.pub/2016/misread-tsne/
 10. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
