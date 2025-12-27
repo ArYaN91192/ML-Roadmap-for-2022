@@ -255,7 +255,8 @@ This is the level where you would dive into different domains of Machine Learnin
          4. Email Spam Classifier Project - https://www.youtube.com/watch?v=YncZ0WwxyzU
          5. Building a Chatbot - https://www.youtube.com/watch?v=Nb21OhaW8GY
 9. #### Time Series(Coming Soon)
-10. #### Computer Vision(Coming Soon)
+10. #### Computer Vision
+        1. Image Processing Using OpenCV https://www.youtube.com/watch?v=oUJs03eZ0S8&list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR
 11. #### Fundamentals of Neural Network - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 
